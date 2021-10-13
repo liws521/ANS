@@ -1,0 +1,15 @@
+/*top begin*/
+.top{width:100%;min-width:1180px;background:#ddd;height:150px;}
+.top .top_con{width:1180px;margin:0 auto;}
+.top .top_con .top_con_left{float:left; width:330px;}
+/*top end*/
+
+
+.con .banner_left{float:left;background:#ddd;width:830px;height:300px;border-radius:3px;border:1px solid #ccc;margin-top:5px;}
+.con .banner_left .banner_left_left{width:700px;height:300px;float:left;position:relative;}
+.con .banner_left .banner_left_left ul li{position:absolute;top:11px;left:15px;display:none;}
+.con .banner_left .banner_left_left ul li img {display:inline-block;border-radius:3px;}
+.con .banner_left .banner_left_right{width:116px;height:295px;float:right;position:relative;margin-right:10px;padding-top:5px;}
+.con .banner_left .banner_left_right .hover{position:absolute;top:15px;left:-12px;cursor:pointer;}
+.con .banner_left .banner_left_right ul li{width:126px;height:64px;float:right;margin-top:7px;cursor:pointer;}
+.con .banner_left .banner_left_right ul li img{display:inline-block;margin:7px 13px;border-radius:3px;}
